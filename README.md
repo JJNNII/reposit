@@ -17,5 +17,4 @@ Este é um site simples para apresentação dos planos de streaming da Uni Max.
 
 ## Contato
 
-(15) 99885-5379 | (15) 99709-7334  
-contato@unimax.com
+(15) 99885-5379 | (15) 99709-7334
